@@ -11,7 +11,7 @@ import SwiftUI
 struct OnlineLibraryApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            OpenLibraryListView()
         }
     }
 }
