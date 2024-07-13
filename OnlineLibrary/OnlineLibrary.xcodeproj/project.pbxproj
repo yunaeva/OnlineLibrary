@@ -71,6 +71,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		8A0A532C2C3FBC9500DCFD64 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				8A8BC2E82C27F5FF00848AEA /* OpenLibraryListView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
 		8A8BC2DA2C27F5FE00848AEA = {
 			isa = PBXGroup;
 			children = (
@@ -94,8 +102,8 @@
 		8A8BC2E52C27F5FF00848AEA /* OnlineLibrary */ = {
 			isa = PBXGroup;
 			children = (
+				8A0A532C2C3FBC9500DCFD64 /* Views */,
 				8A8BC2E62C27F5FF00848AEA /* OnlineLibraryApp.swift */,
-				8A8BC2E82C27F5FF00848AEA /* OpenLibraryListView.swift */,
 				8A8BC2EA2C27F60000848AEA /* Assets.xcassets */,
 				8A8BC2EC2C27F60000848AEA /* Preview Content */,
 			);
